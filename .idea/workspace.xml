@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="66786da5-8283-4887-a624-1321d0acc5dd" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/werkervaring.html" afterPath="$PROJECT_DIR$/werkervaring.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -164,7 +162,7 @@
       <workItem from="1508754342933" duration="383000" />
       <workItem from="1508754856093" duration="14143000" />
       <workItem from="1508841670737" duration="22267000" />
-      <workItem from="1509368210522" duration="12322000" />
+      <workItem from="1509368210522" duration="12371000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1509706246169</created>
@@ -180,11 +178,18 @@
       <option name="project" value="LOCAL" />
       <updated>1509708139315</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="titel">
+      <created>1509965699474</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1509965699474</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49115000" />
+    <option name="totallyTimeSpent" value="49164000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
@@ -219,7 +224,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
     <MESSAGE value="tekst index.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="tekst index.html" />
+    <MESSAGE value="titel" />
+    <option name="LAST_COMMIT_MESSAGE" value="titel" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
