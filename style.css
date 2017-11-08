@@ -151,12 +151,6 @@ p {
     padding: 5px;
 }
 
-.main2 > div > img {
-    display: block;
-    transition: .1s transform;
-    transform: translateZ(0);
-}
-
 .main2 > div:hover {
     z-index: 1;
 }
@@ -273,6 +267,6 @@ table, td, th, caption {
 }
 
 h2 {
-    font-size: 2em;
+    font-size: 2.5em;
 }
 
